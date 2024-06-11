@@ -12,5 +12,10 @@ Can assign responses to other users.
 ![image](https://github.com/jakegillespie6/CC_Relocations_PowerApp/assets/64338143/421d2f38-74e7-4c6f-a0a7-fd91bc7e57d3)
 
 
-All Data sourced from this feeds into a report to provide high-level, drillable data to provide key insights to processes.
-![image](https://github.com/jakegillespie6/CC_Relocations_PowerApp/assets/64338143/0bd6e129-6859-4a88-950b-3d103e2e4083)
+All Data sourced from this feeds into a report to see active tasks and statuses provided.
+![image](https://github.com/jakegillespie6/CC_Relocations_PowerApp/assets/64338143/ae325441-f633-44a3-a9a3-8706992f3bfd)
+
+As well ass key insights to the data collected from the workflow. 
+![image](https://github.com/jakegillespie6/CC_Relocations_PowerApp/assets/64338143/ba0ec883-7c05-40a8-bf78-fda61d62a689)
+![image](https://github.com/jakegillespie6/CC_Relocations_PowerApp/assets/64338143/0886d760-dc9b-4ad0-a1f7-994159daa812)
+![image](https://github.com/jakegillespie6/CC_Relocations_PowerApp/assets/64338143/d7d6abf1-23ce-4c35-973c-964e9e7f9d66)
