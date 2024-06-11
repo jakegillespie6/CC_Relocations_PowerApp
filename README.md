@@ -10,3 +10,7 @@ New Candidate proposal page.
 Allows user to upload a site based on ID. Data is pulled from databse to populate information about the pole. 
 Can assign responses to other users.
 ![image](https://github.com/jakegillespie6/CC_Relocations_PowerApp/assets/64338143/421d2f38-74e7-4c6f-a0a7-fd91bc7e57d3)
+
+
+All Data sourced from this feeds into a report to provide high-level, drillable data to provide key insights to processes.
+![image](https://github.com/jakegillespie6/CC_Relocations_PowerApp/assets/64338143/0bd6e129-6859-4a88-950b-3d103e2e4083)
